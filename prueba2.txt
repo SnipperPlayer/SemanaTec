@@ -1,0 +1,7 @@
+Archivo
+INICIO
+Nueva
+Inicio de linea Hola,esto es una prueba. Final de linea
+incio
+inicio de lineaHola esto es una prueba. final de linea
+voy ueva a escribir algo de texto

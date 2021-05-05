@@ -1,0 +1,10 @@
+Un programador el cuál queria trabajar en una gran empresa, el cual recibio un
+problema, el cuál tenia que resolver para ser aceptado. Este problema le pedia
+calcular el volumen total de una esfera en un codigo de python. Después de
+mucho pensar el programador obtuvo el siguiente codigo:
+
+print("hello, world")
+
+Despues de tremenda grosería el programador quedo vetado de poder aplicar
+cualquier otro trabajo relacionado con progrmación, pero el sabía de corazón
+que el había hecho un buen trabajo, se sentía orgulloso.
